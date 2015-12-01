@@ -1,0 +1,23 @@
+{
+  "name": "node_12012015",
+  "version": "1.0.0",
+  "description": "### Instructor: Eric Greene",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/training4developers/node_12012015.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/training4developers/node_12012015/issues"
+  },
+  "homepage": "https://github.com/training4developers/node_12012015#readme",
+  "dependencies": {
+    "commander-plus": "0.0.6",
+    "express": "^4.13.3"
+  }
+}
