@@ -18,7 +18,7 @@
 
 ### Morning
 - Node.js Installation
-- REPL Environment
+- REPL Environment (JS Review as needed)
 - Hello World
 - Node Package Manager
 - Command Line Applications
@@ -32,3 +32,7 @@
 - HTTP Web Server
 - Express
 - REST Services
+
+## GitHub Repository
+
+[https://github.com/training4developers/node_12012015](https://github.com/training4developers/node_12012015)
