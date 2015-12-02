@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/training4developers/node_12012015#readme",
   "dependencies": {
+    "body-parser": "^1.14.1",
     "commander-plus": "0.0.6",
     "express": "^4.13.3"
   }

@@ -1,5 +1,5 @@
 {
-	"webServer" {
+	"webServer": {
 		"port": 8070,
 		"rootFolder": "./app/www"
 	}
