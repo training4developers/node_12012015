@@ -20,5 +20,10 @@
     "body-parser": "^1.14.1",
     "commander-plus": "0.0.6",
     "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.11.0",
+    "install": "^0.4.0"
   }
 }
